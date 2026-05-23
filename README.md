@@ -1,6 +1,6 @@
 # FindLy
 
-> **Semantic file search for your local machine.**
+<!-- > **Semantic file search for your local machine.** -->
 > Find files by what they *mean*, not what they're named.
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
