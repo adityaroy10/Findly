@@ -11,7 +11,7 @@
 ![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-DC382D)
 ![Redis](https://img.shields.io/badge/Redis-Queue-DC382D?logo=redis&logoColor=white)
 
-https://github.com/user-attachments/assets/a92e7440-6cf5-49bc-b884-1f7f1e9ffcce
+<!--https://github.com/user-attachments/assets/a92e7440-6cf5-49bc-b884-1f7f1e9ffcce -->
 
 ---
 
