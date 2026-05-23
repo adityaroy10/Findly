@@ -279,7 +279,7 @@ curl http://localhost:8000/api/qdrant/health
 
 ## Acknowledgments
 
-Built by a team of students at the **University of Southern California** as part of our coursework. Thanks to everyone on the team who contributed to the backend pipeline, indexing infrastructure, and frontend experience.
+Built by a team of students at the **University of Southern California**. Thanks to everyone on the team who contributed to the backend pipeline, indexing infrastructure, and frontend experience.
 
 Embedding models:
 - [all-mpnet-base-v2](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) by Microsoft / sentence-transformers
